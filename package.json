@@ -1,0 +1,26 @@
+{
+  "name": "change-vuetify-background-color",
+  "version": "1.0.0",
+  "description": "A project demonstrating how to change app background color in Vuetify.js and Nuxt.js",
+  "author": "Jarek Lipski",
+  "private": false,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^3.0.0",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^7.0.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-nuxt": ">=0.4.2"
+  }
+}
