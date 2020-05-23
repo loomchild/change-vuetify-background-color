@@ -2,7 +2,7 @@
 
 > A project demonstrating how change app background in Vuetify.js and Nuxt.js
 
-See https://medium.com/untitled-factory/changing-background-color-in-vuetify-js-and-nuxt-js-b4222cfa547e for more info.
+Read my related article on [Medium](https://medium.com/untitled-factory/changing-background-color-in-vuetify-js-and-nuxt-js-b4222cfa547e) to learn more.
 
 ## Build Setup
 
