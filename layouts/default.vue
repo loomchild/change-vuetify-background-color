@@ -12,7 +12,4 @@ export default {
 </script>
 
 <style scoped>
-.v-application {
-  background-color: var(--v-background-base);
-}
 </style>
