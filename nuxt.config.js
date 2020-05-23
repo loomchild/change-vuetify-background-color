@@ -15,7 +15,6 @@ export default {
   loading: { color: '#f00' },
 
   css: [
-    '~/assets/common.css'
   ],
 
   plugins: [
@@ -30,6 +29,8 @@ export default {
   ],
 
   vuetify: {
+    customVariables: ['~/assets/variables.scss'],
+    treeShake: true,
     theme: {
       options: {
         customProperties: true
