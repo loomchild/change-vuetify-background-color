@@ -7,7 +7,7 @@
         </span>
       </v-col>
     </v-row>
-    <v-row class="mt-4 flex-column flex-sm-row">
+    <v-row class="mt-4 flex-column flex-sm-row align-center">
       <v-spacer />
       <v-col cols="auto">
         <v-btn @click="darken">
